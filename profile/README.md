@@ -21,12 +21,16 @@ Prod: https://pwa.gustaffo.com
 
 #### Frontend
 UAT: https://booking.uat.gustaffo.dev/
+
 Dev: https://booking.gustaffo.dev/
+
 Prod: https://booking.gustaffo.com/
 
 #### Backend
 UAT: https://bookingservice.uat.gustaffo.dev/
+
 Dev: https://bookingservice.gustaffo.dev/
+
 Prod: https://bookingservice.gustaffo.com/
 
 #### Widget
