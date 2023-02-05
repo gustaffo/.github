@@ -10,7 +10,7 @@ Get ready to disrupt the world.
 Prod: https://link-lb.gustaffo.com
 
 #### Google App Engine
-Prod: https://admin.gustaffo.com/login
+Prod: https://app.gustaffo.com/landing/login.html
 
 ### Progressive Web App
 Prod: https://pwa.gustaffo.com
