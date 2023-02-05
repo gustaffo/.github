@@ -44,4 +44,12 @@ Prod: https://pwa.gustaffo.com
 > TBD
 
 #### Reception web interface for mobile keys
-Dev: https://mobile-key.gustaffo.com/
+* Dev: https://mobile-key.gustaffo.com/
+
+#### ⑆ Branching model
+
+* Dev branch deploys to UAT (User acceptance testing)
+* Master branch deploys to Prod environment
+* Feature branches (everything else) runs on a dev environment.
+
+Check application links on how to reach the different environments
