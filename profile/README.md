@@ -20,18 +20,18 @@ Prod: https://pwa.gustaffo.com
 ### Booking Application
 
 #### Frontend
-* UAT: https://booking.uat.gustaffo.dev/
-* Dev: https://booking.gustaffo.dev/
+* UAT: https://booking.uat.apps.gustaffo.com/
+* Dev: https://booking.dev.apps.gustaffo.com/
 * Prod: https://booking-app.gustaffo.com/
 
 #### Backend
-* UAT: https://bookingservice.uat.gustaffo.dev/
-* Dev: https://bookingservice.gustaffo.dev/
+* UAT: https://bookingservice.uat.apps.gustaffo.com/
+* Dev: https://bookingservice.dev.apps.gustaffo.com/
 * Prod: https://booking.gustaffo.com/
 
 #### Widget
-* UAT: https://guest-widget.uat.gustaffo.dev
-* Dev: https://guest-widget.gustaffo.dev
+* UAT: https://guest-widget.uat.apps.gustaffo.com
+* Dev: https://guest-widget.dev.apps.gustaffo.com
 * Prod: https://guest-widget.booking.gustaffo.com
 
 
