@@ -34,6 +34,18 @@ Prod: https://pwa.gustaffo.com
 * Dev: https://guest-widget.dev.apps.gustaffo.com
 * Prod: https://guest-widget.booking.gustaffo.com
 
+### IATA Application
+
+#### Frontend
+* UAT: https://iata.uat.apps.gustaffo.com/
+* Dev: https://iata.dev.apps.gustaffo.com/
+* Prod: https://iata.apps.gustaffo.com/ | https://iata.jit.at
+
+#### Backend
+* UAT: https://api.iata.uat.apps.gustaffo.com/
+* Dev: https://api.iata.dev.apps.gustaffo.com/
+* Prod: https://api.iata.apps.gustaffo.com/
+
 
 > TBD
 
